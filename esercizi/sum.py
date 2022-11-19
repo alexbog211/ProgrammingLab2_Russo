@@ -1,7 +1,8 @@
 def sum_list(list):
-    somma=sum(list)
-    return somma
+    if(len(list)==0):
+        return None
+    return sum(list)
 
-my_list=[1,2,4,5]
+my_list=[]
 somma=sum_list(my_list)
 print(somma)
