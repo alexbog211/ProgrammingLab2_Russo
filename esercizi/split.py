@@ -1,12 +1,11 @@
-
-
+      
 def sum_csv(file_name):
     
-    my_file=open(file_name, "r")
-    
+    # my_file=open(file_name, "r")
+
     value=[]
     
-    for line in my_file:
+    for line in file_name:
 
         element=line.split(",")
 
@@ -16,4 +15,6 @@ def sum_csv(file_name):
         value.append(float(element[1]))
 
     return sum(value)  
-            
+
+my_file=open("shampoo_sales.csv", "r")
+print(sum_csv(my_file))

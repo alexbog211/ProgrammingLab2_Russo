@@ -1,0 +1,1 @@
+classe che abbia come argomenti lo shampoo(probablmente data e prezzo)

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "esame/data.csv": [
+      {
+        "id": "f0a0a161-e396-4959-827b-e28ab9fed51e",
+        "line": 7,
+        "version": 722,
+        "index": 76
+      }
+    ],
+    "esercizi/split.py": [
+      {
+        "id": "0fdc08f9-bebf-4a1d-92c2-58f2ee361524",
+        "line": 7,
+        "version": 1204,
+        "index": 85
+      }
+    ],
+    "lavoro_vero/media_mobile.py": [
+      {
+        "id": "cc216bf1-fce7-4b38-be21-a06118b6bdab",
+        "line": 23,
+        "version": 2448,
+        "index": 653
+      }
+    ]
+  }
+}
